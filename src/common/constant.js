@@ -1,0 +1,3 @@
+export const LOGO_URL="https://w0.peakpx.com/wallpaper/42/357/HD-wallpaper-food-logo-phone-thumbnail.jpg";
+export const IMG_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+export const MENU_API=(resId)=>`https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.897157137019&lng=77.59645231068134&restaurantId=${resId}&catalog_qa=undefined&submitAction=ENTER`;
